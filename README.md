@@ -1,2 +1,2 @@
 # hello-world
-The fist step to be the best programmer
+The first step to be the best programmer
